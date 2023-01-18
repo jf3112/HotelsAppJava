@@ -1,2 +1,2 @@
 # HotelsAppJava
-## Student project for software engineering course
+Student project for software engineering course
